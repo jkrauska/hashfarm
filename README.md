@@ -33,3 +33,5 @@ vigilant_cornflower_crocodile
 ```
 
 I am a lot happier searching for a 'vigilant_cornflower_crocodile' than '3750318906711016457541286099781521507492567885' anyday.
+
+What I really want to do is sneak this in to a bigger codebase so I can use this or similar hash method to give me memorable strings to get my day to day debug work done.
