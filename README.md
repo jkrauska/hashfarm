@@ -1,9 +1,9 @@
 # hashfarm
 Random adjective color animals for making things more memorable
 
-In my $dayjob I need to look up unique hash strings on occasion, and I was getting tired of carrying around long strings like '3750318906711016457541286099781521507492567885'.  So I wondered how hard it would be to make a simple and short mapping of a random string input to a friendly short phrase.
+In my $dayjob I need to look up unique hash strings on occasion, and I was getting tired of carrying around long strings like '3750318906711016457541286099781521507492567885'.  So I wondered how hard it would be to make a simple and short mapping of a random string input to a friendly short phrase.  Gist: it's actually quite easy.
 
-This is somewhat stolen from [XKCD's 'correct horse staple' musings](https://xkcd.com/936/), but implemented as a public one way hash to a friendly shared name.  It also takes some influence and adjectives from [Docker's naming scheme for containers](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go).
+The idea somewhat stolen from [XKCD's 'correct horse staple' musings](https://xkcd.com/936/), but implemented as a public one way hash to a friendly shared name.  It also takes some influence and adjectives from [Docker's naming scheme for containers](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go).
 
 I like animals a lot, so I started with just mixing colors and animals.  But that wasn't amusing enough, so I added some adjectives to add some excitement and emotion to the mix.
 
