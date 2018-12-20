@@ -26,4 +26,10 @@ keen_platinum_tiger
 angry_chestnut_goat
 ```
 
-I am a lot happier searching for an 'adoring_silver_monkey' than '3750318906711016457541286099781521507492567885' anyday.
+or like this:
+```bash
+$ echo '3750318906711016457541286099781521507492567885' | ./hashme.py
+vigilant_cornflower_crocodile
+```
+
+I am a lot happier searching for a 'vigilant_cornflower_crocodile' than '3750318906711016457541286099781521507492567885' anyday.
